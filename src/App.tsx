@@ -4,7 +4,7 @@ function App() {
   const [mensaje, setMensaje] = useState('');
 
   const handleClick = () => {
-    setMensaje('Hola Mundo');
+    setMensaje('Hola Mundo NUEVO CAMBIO');
   };
 
   return (
